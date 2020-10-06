@@ -1,0 +1,7 @@
+amazonProperties:
+  endpointUrl: https://s3.us-west-1.amazonaws.com (Enter the end point of S3 bucket)
+  accessKey: (Enter the access Key )
+  secretKey: (Enter the Secret key)
+  bucketName: adp1234
+  region: us-west-1
+  gateway_end_point: https://xfwz6uzumf.execute-api.us-west-1.amazonaws.com/Test (Enter the end point of API Gateway)
